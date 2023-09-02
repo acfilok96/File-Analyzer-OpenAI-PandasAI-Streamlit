@@ -2,9 +2,15 @@
 
 During hosting in local system, the screenshot of frontend looks like below, 
 
+
+## Screenshot 1:
 ![Screenshot (977)](https://github.com/acfilok96/DataFileAnalyzer-Streamlit/assets/88615645/601913dd-57ad-4362-9546-f4b64d1783f8)
 ![Screenshot (979)](https://github.com/acfilok96/DataFileAnalyzer-Streamlit/assets/88615645/23f1ca08-8ebe-40e1-9ee7-9e97740fca28)
 ![Screenshot (981)](https://github.com/acfilok96/DataFileAnalyzer-Streamlit/assets/88615645/114b4693-5a08-4135-a834-51586ab2763a)
+
+## Screenshot 1:
+![demo](https://github.com/acfilok96/DataFileAnalyzer-OpenAI-PandasAI-Streamlit/assets/88615645/0d3f63c7-04e8-4506-b055-0b43a6062e16)
+
 
 Streamlit serves as a robust Python library utilized to construct and deploy dynamic web applications for projects in data science and machine learning. It facilitates the creation of user-friendly interfaces with minimal complexity. By seamlessly integrating Streamlit with the chatgpt API key, an opportunity arises to develop an application that showcases the prowess of our customized chatbot.
 
