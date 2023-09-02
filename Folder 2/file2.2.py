@@ -35,7 +35,7 @@ if file_input:
     # Load CSV file [Working...]
     for file_name in file_input:
         data_file_temp = pd.read_csv(file_name)
-        st.write(data_file_temp.head(3))
+        # st.write(data_file_temp.head(3))
         st.session_state.files.append(data_file_temp)
         
     # Make a list of dictionary, namely 'messages'
