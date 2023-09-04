@@ -2,14 +2,9 @@ import os,time
 import openai
 import streamlit as st
 import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import pandas as pd
-import pandasai
 from pandasai.llm import OpenAI
 from pandasai import PandasAI
 from pandasai import SmartDatalake
-from pandasai.llm import OpenAI
 
 # Header Name [Working...]
 st.title("File Analyzer 2.2")
