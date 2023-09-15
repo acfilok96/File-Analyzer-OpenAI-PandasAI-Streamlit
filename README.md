@@ -9,9 +9,6 @@ During hosting in local system, the screenshot of frontend looks like below,
 ![Screenshot (981)](https://github.com/acfilok96/DataFileAnalyzer-Streamlit/assets/88615645/114b4693-5a08-4135-a834-51586ab2763a)
 
 ## Screenshot 2:
-![demo](https://github.com/acfilok96/DataFileAnalyzer-OpenAI-PandasAI-Streamlit/assets/88615645/0d3f63c7-04e8-4506-b055-0b43a6062e16)
-
-## Screenshot 3:
 ![1111-1](https://github.com/acfilok96/DataFileAnalyzer-OpenAI-PandasAI-Streamlit/assets/88615645/cba36b13-839f-4f2b-949f-4777de87548e)
 ![2222-1](https://github.com/acfilok96/DataFileAnalyzer-OpenAI-PandasAI-Streamlit/assets/88615645/8f7ae148-2d8b-4c1c-97b6-47610af1d733)
 
